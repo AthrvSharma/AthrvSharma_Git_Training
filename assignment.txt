@@ -2,3 +2,4 @@ Git Training Assignment
 This file is created for Git assignment.
 The file was modified after the first push.
 Feature branch changes have been added.
+Additional functionality has been added to the feature branch.
